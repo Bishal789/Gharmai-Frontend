@@ -120,7 +120,6 @@
         android:layout_height="56dp"
         android:layout_marginTop="12dp"
         android:backgroundTint="#d35400"
-        android:drawableLeft=""
         android:text="Continue as Google"
         android:textColor="@color/black"
         android:textSize="20dp"
